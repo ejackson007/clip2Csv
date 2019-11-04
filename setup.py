@@ -1,9 +1,9 @@
 from setuptools import setup
 
 APP = ['pystebinIngram.py']
-DATA_FILES = ['1.gif','2.gif']
+DATA_FILES = []
 OPTIONS = {
- 'iconfile':'logo.ico',
+ 'iconfile':'images_1024x1024.icns',
  'argv_emulation': True,
  'packages': ['certifi'],
 }
