@@ -8,4 +8,4 @@
 	99MO023208	6HK605	Moshi Mini DisplayPort to HDMI adapter. Supports 4K displays and Digital Surround Sound.	1	0	24.36	24.36					Default					
 	99MO021917	6HK592	Moshi ClearGuard MB w/Touch Bar	1	0	17.06	17.06					Default					
 	99MO022111	6HK594	Moshi Rewind2 Dual-Port WallCharger	1	0	21.46	21.46					Default					
-	SDIX30C-032G-AN6NN	4T7050	SanDisk 32GB iXpand lightning USB 3.0 Flash Drive - 32 GB - Lightning, USB 3.0 - 1 Year Warranty V2 TYPE A	1	0	37.22	37.22					Default					
+	SDIX30C-032G-AN6NN	4T7050	SanDisk 32GB iXpand lightning USB 3.0 Flash Drive - 32 GB - Lightning, USB 3.0 - 1 Year Warranty V2 TYPE A	1	0	37.22	37.22					Default		    			
