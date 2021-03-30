@@ -23,7 +23,7 @@ for lines in toCsv:
 
 #create csv for export
 csvExport = []
-csvExport.append(list(['SKU', 'VPN', 'QTY']))
+csvExport.append(list(['SKU', 'VPN', 'Quantity']))
 for lines in toCsv:
     csvExport.append(lines)
 
